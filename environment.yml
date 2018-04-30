@@ -1,0 +1,13 @@
+name: playlists
+
+dependencies:
+  - python=2.7
+  - pandas
+  - numpy=1.9.1
+  - scipy=0.14
+  - theano=0.8
+  - jupyter
+  - ipykernel
+  - pip:
+      - keras==1.0.7
+      - h5py
