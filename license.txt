@@ -1,1 +1,0 @@
-The Million Playlist Dataset is subject to the license at https://recsys-challenge.spotify.com/license.
