@@ -1,14 +1,17 @@
 
 
 
-# RecSys 2018 Challenge (Spotify Million Playlists Dataset) Submission
-## by Jack Vasylenko, Chitwan Kaudan, Anith Patel, Tyler Larsen, William Wang
+# Spotify Million Playlists Dataset (RecSys 2018) Challenge Submission 
+by Jack Vasylenko, Chitwan Kaudan, Anith Patel, Tyler Larsen, William Wang
 
-The Million Playlist Dataset contains 1,000,000 playlists created by
-users on the Spotify platform.  It can be used by researchers interested
-in exploring how to improve the music listening experience.
+Place the 'data' folder obtained using Spotify's official [dataset](recsys-challenge.spotify.com/dataset) into the root folder of the project and run the following command:
+```
+python restructureData.py 
+```
 
-## What's in the Million Playlist Dataset
+
+
+## About the dataset:
 The MPD contains a million user-generated playlists. These playlists
 were created during the period of January 2010 through October 2017.
 Each playlist in the MPD contains a playlist title, the track list
@@ -18,22 +21,22 @@ about the playlist. See the **Detailed
 Description** section for more details.
 
 
-## License
+### License
 Usage of the Million Playlist Dataset is subject to these 
 [license terms](https://recsys-challenge.spotify.com/license)
 
-## Citing the Million Playlist Dataset
+### Citing the Million Playlist Dataset
 
 Citation information for the dataset can be found at
 [recsys-challenge.spotify.com/dataset](https://recsys-challenge.spotify.com/dataset)
 
 
-## Getting the dataset
+### Getting the dataset
 The dataset is available at [recsys-challenge.spotify.com/dataset](https://recsys-challenge.spotify.com/dataset)
 
 
 
-## How was the dataset built
+### How was the dataset built
 The Million Playist Dataset is created by sampling playlists from the billions of playlists that Spotify users have created over the years.  Playlists that meet the following criteria are selected at random:
 
  * Created by a user that resides in the United States and is at least 13 years old
