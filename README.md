@@ -14,7 +14,7 @@ Each playlist in the MPD contains a playlist title, the track list
 number of playlist edits) and other miscellaneous information 
 about the playlist.
 
-## Obtaing The Data
+## Obtaining The Data
 Proceed with these steps to download Spotify's dataset (33 Gb) and convert the data into a memory-efficient format (~ 5 Gb) for use on the Databricks platform:
 1. Download Spotify's official [dataset](recsys-challenge.spotify.com/dataset) and place the 'data' folder into the root folder of the project. 
 2. Run the following command:
