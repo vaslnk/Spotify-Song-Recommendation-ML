@@ -4,6 +4,8 @@
 # Spotify Million Playlists (RecSys 2018) Challenge Submission 
 UC Berkeley Team: Jack Vasylenko, Chitwan Kaudan, Anith Patel, Tyler Larsen and William Wang.
 
+# Databricks Spark Demo video: https://youtu.be/CQqzHpn5zE8
+
 This project is a song recommendation system implemented using Spark MLib Alternating Squares Collaborative Filtering Algorithm trained on 1 million playlists open-sourced by Spotify.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="200">     <img src="https://venturebeat.com/wp-content/uploads/2017/06/databricks_logor_stacked_rgb_1200px.png" width="200">     <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="200">     <img src="https://cdn-images-1.medium.com/max/1600/1*AD9ZSLXKAhZ-_WomszsmPg.png" width="200">
